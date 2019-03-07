@@ -37,25 +37,40 @@ The 7th of March of 2019
 ## 3. Assembly procedure : motor to the arduino
 
 ### First step
-    Put the motor axis into the big hole of the blue support, like on the pictures. Warning, holes in yellow circles may be in front of the 3 holes of the blue support.
+    Download the arduino program motor_control_open_loop on the laptop.
 
 1. 
-    <img src="../Pictures/screw-holes.jpg" width="400px"/>
-
-2. 
-    <img src="../Pictures/assembly1.jpg" width="400px"/>
-
-3. 
-    <img src="../Pictures/assembly2.jpg" width="400px"/>
+    <img src="../Pictures/laptop.jpg" width="400px"/>
 
 ### Second step
-    Put the 3 srew into the 3 holes and screw them.
+    Download the DRV8835MotorShield librarie into the arduino IDE.
+
+### Third step
+    Wire the laptop to the arduino with the USB cable.
 
 1. 
-    <img src="../Pictures/assembly3.jpg" width="400px"/>
+    <img src="../Pictures/USB-Arduino.jpg" width="400px"/>
 
 2. 
-    <img src="../Pictures/assembly4.jpg" width="400px"/>
+    <img src="../Pictures/USB-PC.jpg" width="400px"/>
+
+### Fourth step
+    Download the software on the arduino UNO and verify if the LED blink every 2 secondes on the arduino. After unwire the USB cable from the arduino and the laptop.
+
+### Fifth step
+    Put the jumper on the motor shield on the VOUT pin, like on the picture.
+
+1. 
+    <img src="../Pictures/shield-motor-with-jumper.jpg" width="400px"/>
+
+### Sixth step
+    Pin the arduino shield on the arduino. The Vcc pin of the shield have to be on the 5V pin of the arduino.
+
+1. 
+    <img src="../Pictures/assembly6.jpg" width="400px"/>
+
+2. 
+    <img src="../Pictures/assembly7.jpg" width="400px"/>
 
 ### Results
     At the end, the result look like this:
