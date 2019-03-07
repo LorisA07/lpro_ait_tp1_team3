@@ -17,6 +17,7 @@ The 7th of March of 2019
 
 ## 2. Tools
 
-
+- a flathead screwdriver 
+![alt text](/Pictures/screwdriver.jpg)
 
 ## 3. Motor assembly
