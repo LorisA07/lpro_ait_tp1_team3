@@ -8,16 +8,19 @@ The 7th of March of 2019
 
 ## 1. Hardware
 
-- a EMG30 motor
+- 1. 1. EMG30 motor
 ![alt text](/Pictures/Motor+reductor.jpg)
-    Front side
-![alt text](/Pictures/front side motor.jpg)
+- 1. 2. EMG30 motor front side 
+![alt text](/Pictures/front-side-motor.jpg)
 
-- a 
+- 2. Blue motor support
+![alt text](/Pictures/Motor-shelf.jpg)
+
+- 3. 
 
 ## 2. Tools
 
-- a flathead screwdriver 
+- A flathead screwdriver 
 ![alt text](/Pictures/screwdriver.jpg)
 
 ## 3. Motor assembly
