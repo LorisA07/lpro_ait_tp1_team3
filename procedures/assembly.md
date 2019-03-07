@@ -9,8 +9,9 @@ The 7th of March of 2019
 ## 1. Hardware
 
 - a EMG30 motor
-![GitHub Logo](/Pictures/Motor+reductor.jpg)
-![GitHub Logo](/Pictures/front side motor.jpg)
+![alt text](/Pictures/Motor+reductor.jpg)
+    Front side
+![alt text](/Pictures/front side motor.jpg)
 
 - a 
 
